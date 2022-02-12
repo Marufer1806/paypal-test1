@@ -9,9 +9,9 @@ export const createOrder = async (req, res) => {
         {
           amount: {
             currency_code: "EUR",
-            value: "20.75",
+            value: "29.87",
           },
-          description: "camiseta roja",
+          description: "red t-shit",
         },
       ],
 
